@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say voice="alice">A Tornado Warning has been issued for Tipton County.  Seek shelter immediately.</Say>
+</Response>
